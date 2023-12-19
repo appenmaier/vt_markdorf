@@ -1,10 +1,5 @@
 # Aufgaben zum Praxisphasenstart
 
-## Allgemeines
-- Profil-Angaben (Office Location, License, In-House Mail) aktualisieren (_SAP One – Explore – Plattforms – People – Edit your Profile_)
-- Essenskarte am Empfang abholen (nur für Markdorf)
-- Teamevent planen und organisieren (Budget: 20€ pro Person)
-
 ## Praxisphase
 - So noch nicht geschehen, Praxisphase im [Talent Marketplace](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site#talentmarketplace-Display) erstellen lassen und belegen
 - Praxisphasenplanungsgespräch mit dem Dezi organisieren (Anfang Praxisphase, ½ Stunde)
@@ -25,3 +20,8 @@ Prüfen, ob (zusätzlicher) Urlaub genommen werden sollte
 - Euer gesetzlicher Urlaub verfällt zum 30. Juni
 - Ihr solltet pro Jahr mindestens 20 Tage Urlaub nehmen
 - Ihr solltet mindestens einmal pro Jahr 12 freie Werktage (Montag-Samstag) am Stück Urlaub nehmen
+
+## Sonstiges
+- Profil-Angaben (Office Location, License, In-House Mail) aktualisieren (_SAP One – Explore – Plattforms – People – Edit your Profile_)
+- Essenskarte am Empfang abholen (nur für Markdorf)
+- Teamevent planen und organisieren (Budget: 20€ pro Person)
