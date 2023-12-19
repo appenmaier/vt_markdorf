@@ -13,7 +13,7 @@
   - Thomas Veit - Lan Zhang - Rudolf Hois - Uma Rani T M - Jan Gilg
   - Christian Bodenmiller - Johannes Brechtel - Uma Rani T M - Jan Gilg
   - Matthias Woerner - Sarah Mang-Schäfer - Lawrence Martin - Jan Gilg
-- Industries & CX ()
+- Industries & CX
   - Martin Dickhöfer - Donna Dong - Balaji Balasubramanian - Ritu Bhargava
   - Christian Becker - Hein Kagermann - Rajnish Prasad - Benjamin Blau - Ritu Bhargava
 
