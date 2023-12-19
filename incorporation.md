@@ -38,3 +38,26 @@ Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, 
 - Schulischer Werdegang: Hochschule (Abschluss, Studiengang, Notenschnitt), Weiterführende Schule(n) (Abschluss, Leistungskurse, Abschlussnote), Grundschule
 - Beruflicher Wedegang: Nebenjobs, Praxisphasen (Zeitraum, Bereich, Themenschwerpunkte bzw. Technologieshwerpunkte)
 - Schulungen und Zertifikate
+
+## Master-Wildcards
+Bitte teilt mir ebenfalls bis zum 30. Januar zurück, ob Ihr Interesse an einem der Master-Wildcards hättet. Die Wildcards können entweder für einen Vollzeitmaster oder einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt. Bitte bedenkt zudem, dass es mit dem Master@Business eine sehr gute Alternative zur Master Wildcard für den Vollzeitmaster gibt. Eine vergleichbare Alternative für einen berufsbegleitenden Master gibt es so nicht. Ich würde daher empfehlen, sich nur für die Master Wildcard zu bewerben, wenn ein berufsbegleitender Master angestrebt wird.
+
+Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
+- Erstes Element (Leistung in den Praxisphasen)
+  - Durchschnittliches Feedback über alle Praxipshasen sehr gut: 2 Punkte 
+  - Durchschnittliches Feedback über alle Praxipshasen gut: 1 Punkt
+  - Durchschnittliches Feedback über alle Praxisphasen ok: 0 Punkte
+  - Durchschnittliches Feedback über alle Praxisphasen unterdurchschnittlich: Disqualifikation
+- Zweites Element (Leistung beim Dualen Partner)
+  - Notenschnitt 1,5 oder besser: 2 Punkte
+  - Notenschnitt 2,0 oder besser: 1 Punkt
+  - Notenschnitt 2,5 oder besser: 0 Punkte
+  - Notenschnitt 2,6 oder schlechter: Disqualifikation
+- Drittes Element (Engagement für die Ausbildungsabteilung)
+  - 8 vollwertige Tätigkeiten oder mehr: 2 Punkte
+  - 6 vollwertige Tätigkeiten oder mehr: 1 Punkt
+  - 4 vollwertige Tätigkeiten oder mehr: 0 Punkte
+  - 3 oder weniger Tätigkeiten: Disqualifikation
+- Viertes Element (Unternehmerisches Verhalten (Regeln und Pflichten))
+  - Keine Beanstandungen: 0 Punkte
+  - Eine oder mehrere Beanstandung: Disqualifikation
