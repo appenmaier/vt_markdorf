@@ -40,7 +40,7 @@ Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, 
 - Schulungen und Zertifikate
 
 ## Master-Wildcards
-Bitte teilt mir ebenfalls bis zum 30. Januar zurück, ob Ihr Interesse an einem der Master-Wildcards hättet. Die Wildcards können entweder für einen Vollzeitmaster oder einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt. Bitte bedenkt zudem, dass es mit dem Master@Business eine sehr gute Alternative zur Master Wildcard für den Vollzeitmaster gibt. Eine vergleichbare Alternative für einen berufsbegleitenden Master gibt es so nicht. Ich würde daher empfehlen, sich nur für die Master Wildcard zu bewerben, wenn ein berufsbegleitender Master angestrebt wird.
+Bitte teilt mir ebenfalls bis zum 30. Januar zurück, ob Ihr Interesse an einem der Master-Wildcards hättet. Hierzu reicht eine formlose E-Mail an mich. Die Wildcards können entweder für einen Vollzeitmaster oder einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt. Bitte bedenkt zudem, dass es mit dem Master@Business eine sehr gute Alternative zur Master Wildcard für den Vollzeitmaster gibt. Eine vergleichbare Alternative für einen berufsbegleitenden Master gibt es so nicht. Ich würde daher empfehlen, sich nur für die Master Wildcard zu bewerben, wenn ein berufsbegleitender Master angestrebt wird.
 
 Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
 - Erstes Element (Leistung in den Praxisphasen)
