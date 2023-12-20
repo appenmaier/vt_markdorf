@@ -13,3 +13,4 @@
 - Softwarelizenzen, die nicht mehr benötigt werden, [zurückgeben](https://fiorilaunchpad.sap.com/sites#my-equipment&/aboutsw)
 - Essenskarte am Empfang abgeben
 - Bescheinigung mit Tätigkeitsübersicht bzw. Formular Ablauf und Reflexion der Praxisphase ausfüllen, von Daniel unterschreiben lassen und an der DHBW abgeben
+- Überlegen, ob man Jemandem aus der Abteilung über das [Appreciate Tool](https://sapit-hr-prod-jobpts-web-mt-sap-prod.cfapps.eu10.hana.ondemand.com/social_feed) seine Wertschätzung ausdrücken möchte
