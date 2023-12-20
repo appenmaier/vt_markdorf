@@ -1,4 +1,10 @@
-# Informationen zur Übernahme
+# Informationen zur Übernahme und zur Master-Wildcard
+
+## Die vier Elemente der Ausbildung
+- Leistung in den Praxisphasen: Mehrwert für die Fachabteilung schaffen
+- Leistung beim Dualen Partner: Notenschnitt von 2,5 oder besser erzielen
+- Engagement für die Ausbildungsabteilung: min. 4 Tätigkeiten bis zum Ende des zweiten Ausbildungsjahres durchführen
+- Unternehmerisches Verhalten: Regeln und Pflichten einhalten
 
 ## Übernahmeempfehlung
 Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, Tätigkeiten, Praxisphasen) soweit möglich im [Talent Compass](https://sapit-hr-prod.launchpad.cfapps.eu10.hana.ondemand.com/site/VT#Shell-home) eingetragen habt, da ich bis zum 31. Januar die 
@@ -11,53 +17,51 @@ Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, 
 - Bei einer eingeschränkten Übernahmeempfehlung sind die Recruiter dazu angewiesen, den Recruiting-Manager darauf hinzuweisen und zu empfehlen, in einem Gespräch mit dem Ausbilder die Gründe für die eingeschränkte Übernahmeempfehlung zu besprechen
 - In 99% aller Fälle, bei denen eine eingeschränkte Übernahmeempfehlung ausgesprochen wird, sind die Noten der Grund. Solltet Ihr davon betroffen sein, würde ich das direkt im Anschreiben ansprechen
 
-**Die vier Elemente der Ausbildung**
-- Erstes Element: Leistung in den Praxisphasen
-- Zweites Element: Leistung beim Dualen Partner
-- Drittes Element: Engagement für die Ausbildungsabteilung
-- Viertes Element: Unternehmerisches Verhalten (Regeln und Pflichten)
-
 ## Bewerbungsunterlagen
 
 **Allgemeine Hinweise**
-- Achtet auf Vollständigkeit (Anschreiben, Lebenslauf, aktueller Notenauszug bzw. aktueller Notenschnitt)
+- Auf Vollständigkeit achten (Anschreiben, Lebenslauf, aktueller Notenauszug bzw. aktueller Notenschnitt)
 - Den Lebenslauf würde ich generell auf Englisch verfassen, das Anschreiben je nach Ausschreibung entweder auf Deutsch oder auf Englisch
-- Im Anschreiben könnt Ihr die Du-Form verwenden
+- Im Anschreiben kann die Du-Form verwendet werden
 
 **Hinweise zum Anschreiben**
 - Im Anschreiben sollte ein Bezug zur Ausschreibung hergestellt werden (z.B. "Auf dem Übernahmemarktplatz am 12.02 habe ich mich an Eurem Stand über Euer Produkt | Eure Abteilung | Eure Lösung informiert…", "In meiner 2. Praxisphase konnte ich erste Eindrücke von Eurem Produkt | Eurer Abteilung | Eurer Lösung gewinnen…")
 - Im Anschreiben sollte ein Bezug zum gesuchten Jobprofil hergestellt werden (z.B. "Durch meine Praxisphase(n) im Bereich X, konnte ich bereits erste Eindrücke in das Produkt | die Technologie | den Bereich Y gewinnen. Zudem konnte ich mir an der DHBW durch Vorlesungen wie Z Grundlagenwissen in diesem Bereich aneignen…")
-- Im Anschreiben sollte auch der (zwischen)menschliche Aspekt nicht vergessen werden (Stichwort Hobbies und Interessen bzw. Ehrenamtliche und Nebenberufliche Tätigkeiten)
-- Das Anschreiben muss die folgenden Fragen beantworten: Warum dieser Bereich bzw. diese Abteilung bzw. dieses Team? Warum dieses Jobprofil? Warum Ihr?
+- Im Anschreiben sollte auch der soziale Aspekt nicht vergessen werden (Stichwort Hobbies und Interessen bzw. Ehrenamtliche und Nebenberufliche Tätigkeiten)
+- Das Anschreiben muss generell die folgenden Fragen beantworten: Warum dieser Bereich bzw. diese Abteilung bzw. dieses Team? Warum dieses Jobprofil? Warum Ihr?
 
-**Beispielhafter Aufbau eines Lebenslaufs**
+**Hinweise zum Lebenslauf**
+- Bei zeitlichen Angaben (Schulischer und Beruflicher Werdegang, Ehrenamtliche und Nebenberufliche Tätigkeiten) sollten die Einträge zeitlich absteigend aufgeführt werden
+- Bei Fähigkeiten (Sprachkenntnisse, EDV-Kenntnisse und Methoden) sollte immer eine grobe Einschätzung dieser angegeben werden (z.B. Java (Fortgeschrittene Kenntnisse))
+
+**Inhalte eines Lebenslaufs**
 - Persönliche Angaben: Name, Anschrift, Kontaktmöglichkeiten
 - Hobbies und Interessen: Sport, Musik, Kultur, Freizeit ect.
-- Ehrenamtliche und Nebenberufliche Tätigkeiten
+- Ehrenamtliche und Nebenberufliche Tätigkeiten: Nebenjobs, Vereinstätigkeiten etc.
 - Fähigkeiten: Sprachkenntnisse (z.B. Deutsch), EDV-Kenntnisse (z.B. Java), Methoden (z.B. SCRUM)
 - Schulischer Werdegang: Hochschule (Abschluss, Studiengang, Notenschnitt), Weiterführende Schule(n) (Abschluss, Leistungskurse, Abschlussnote), Grundschule
-- Beruflicher Wedegang: Nebenjobs, Praxisphasen (Zeitraum, Bereich, Themenschwerpunkte bzw. Technologieshwerpunkte)
+- Beruflicher Wedegang: Nebenjobs, Praxisphasen (Zeitraum, Bereich, Aufgaben, Themen)
 - Schulungen und Zertifikate
 
 ## Master-Wildcards
 Bitte teilt mir ebenfalls bis zum 30. Januar zurück, ob Ihr Interesse an einem der Master-Wildcards hättet. Hierzu reicht eine formlose E-Mail an mich. Die Wildcards können entweder für einen Vollzeitmaster oder einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt. Bitte bedenkt zudem, dass es mit dem Master@Business eine sehr gute Alternative zur Master Wildcard für den Vollzeitmaster gibt. Eine vergleichbare Alternative für einen berufsbegleitenden Master gibt es so nicht. Ich würde daher empfehlen, sich nur für die Master Wildcard zu bewerben, wenn ein berufsbegleitender Master angestrebt wird.
 
 Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
-- Erstes Element (Leistung in den Praxisphasen)
+- Leistung in den Praxisphasen
   - Durchschnittliches Feedback über alle Praxipshasen sehr gut: 2 Punkte 
   - Durchschnittliches Feedback über alle Praxipshasen gut: 1 Punkt
   - Durchschnittliches Feedback über alle Praxisphasen ok: 0 Punkte
   - Durchschnittliches Feedback über alle Praxisphasen unterdurchschnittlich: Disqualifikation
-- Zweites Element (Leistung beim Dualen Partner)
+- Leistung beim Dualen Partner
   - Notenschnitt 1,5 oder besser: 2 Punkte
   - Notenschnitt 2,0 oder besser: 1 Punkt
   - Notenschnitt 2,5 oder besser: 0 Punkte
   - Notenschnitt 2,6 oder schlechter: Disqualifikation
-- Drittes Element (Engagement für die Ausbildungsabteilung)
+- Engagement für die Ausbildungsabteilung
   - 8 vollwertige Tätigkeiten oder mehr: 2 Punkte
   - 6 vollwertige Tätigkeiten oder mehr: 1 Punkt
   - 4 vollwertige Tätigkeiten oder mehr: 0 Punkte
   - 3 oder weniger Tätigkeiten: Disqualifikation
-- Viertes Element (Unternehmerisches Verhalten (Regeln und Pflichten))
+- Unternehmerisches Verhalten
   - Keine Beanstandungen: 0 Punkte
   - Eine oder mehrere Beanstandung: Disqualifikation
