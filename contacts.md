@@ -2,6 +2,8 @@
 
 ## Ansprechpartner Praxisphasen
 
+**Office of the CEO**
+
 ```mermaid
 flowchart TD
     ck --- ss
@@ -26,6 +28,8 @@ flowchart TD
         end
     end
 ```
+
+**Product Engineering**
 
 ```mermaid
 flowchart TD
@@ -76,6 +80,8 @@ flowchart TD
         end
     end
 ```
+
+**Customer Success**
 
 ```mermaid
 flowchart TD
