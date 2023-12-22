@@ -43,12 +43,12 @@ Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, 
 - Beruflicher Wedegang: Nebenjobs, Praxisphasen (Zeitraum, Bereich, Aufgaben, Themen)
 - Schulungen und Zertifikate
 
-## Master-Wildcards
+## Master-Wildcard
 Bitte teilt mir ebenfalls bis zum 30. Januar zurück, ob Ihr Interesse an einem der Master-Wildcards hättet. Hierzu reicht eine formlose E-Mail an mich. Die Wildcards können entweder für einen Vollzeitmaster oder einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt. Bitte bedenkt zudem, dass es mit dem Master@Business eine sehr gute Alternative zur Master Wildcard für den Vollzeitmaster gibt. Eine vergleichbare Alternative für einen berufsbegleitenden Master gibt es so nicht. Ich würde daher empfehlen, sich nur für die Master Wildcard zu bewerben, wenn ein berufsbegleitender Master angestrebt wird.
 
 Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
 - Leistung in den Praxisphasen
-  - Durchschnittliches Feedback über alle Praxipshasen sehr gut: 2 Punkte 
+  - Durchschnittliches Feedback über alle Praxipshasen herausragend: 2 Punkte 
   - Durchschnittliches Feedback über alle Praxipshasen gut: 1 Punkt
   - Durchschnittliches Feedback über alle Praxisphasen ok: 0 Punkte
   - Durchschnittliches Feedback über alle Praxisphasen unterdurchschnittlich: Disqualifikation
@@ -58,10 +58,10 @@ Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
   - Notenschnitt 2,5 oder besser: 0 Punkte
   - Notenschnitt 2,6 oder schlechter: Disqualifikation
 - Engagement für die Ausbildungsabteilung
-  - 8 vollwertige Tätigkeiten oder mehr: 2 Punkte
-  - 6 vollwertige Tätigkeiten oder mehr: 1 Punkt
+  - 12 vollwertige Tätigkeiten oder mehr: 2 Punkte
+  - 8 vollwertige Tätigkeiten oder mehr: 1 Punkt
   - 4 vollwertige Tätigkeiten oder mehr: 0 Punkte
   - 3 oder weniger Tätigkeiten: Disqualifikation
 - Unternehmerisches Verhalten
   - Keine Beanstandungen: 0 Punkte
-  - Eine oder mehrere Beanstandung: Disqualifikation
+  - Eine oder mehrere Beanstandungen: Disqualifikation
