@@ -1,6 +1,6 @@
 # Ansprechpartner Markdorf
 
-## Ansprechpartner im Bereich Office of the CEO
+## Ansprechpartner Praxisphasen
 
 ```mermaid
 flowchart TD
@@ -26,8 +26,6 @@ flowchart TD
         end
     end
 ```
-
-## Ansprechpartner im Bereich Product Engineering
 
 ```mermaid
 flowchart TD
@@ -78,8 +76,6 @@ flowchart TD
         end
     end
 ```
-
-## Ansprechpartner im Bereich Customer Success
 
 ```mermaid
 flowchart TD
