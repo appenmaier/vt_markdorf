@@ -14,7 +14,7 @@ Abstimmung mit dem betrieblichen Betreuer
   - Urlaube, Feiertage
   - Schulungen, Marketingveranstaltungen
   - Korrekturphase und Drucken
-- Abstimmung mit dem wissenscahftlichen Betreuer
+- Abstimmung mit dem wissenschaftlichen Betreuer
   - Thema der Arbeit (Titel, Untertitel)
   - Grobgliederung (maximal Gliederungstiefe 2, grobe Seitenzahl)
   - Umfang (untere Grenze, obere Grenze)
