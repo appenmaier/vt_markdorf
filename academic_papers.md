@@ -148,7 +148,7 @@ _Hinweise_
 - Auch in der Einleitung müssen sämtliche Thesen mit Quellen belegt werden
 - In der Ergebnisdiskussion müssen sowohl die Ergebnisse der Arbeit als auch die methodische Vorgehensweise kritisch reflektiert werden 
 - Generell müssen alle Quellen kritisch betrachtet werden. Im Idealfall kann man eine These mit mehr als einer Quelle belegen
-- Einleitung, Ergebnisdiuskussion und Schluss müssen einen roten Faden bilden und müssen ohne den Hauptteil der Arbeit "funktionieren"
+- Einleitung, Ergebnisdiskussion und Schluss müssen einen roten Faden bilden und müssen ohne den Hauptteil der Arbeit "funktionieren"
 - Im Schluss dürfen keine neuen Erkenntisse gewonnen werden. Heißt, es dürfen nur bestehende Ergebnisse kurz zusammengefasst wiederholt werden
 
 ## Drucken wissenschaftlicher Arbeiten
