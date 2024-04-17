@@ -22,7 +22,7 @@ Abstimmung mit dem betrieblichen Betreuer
 
 _Empfehlung_: Zu detaillierte Abstimmungen bezüglich Gliederung, Anforderungen etc. vermeiden.
 
-## Vom Thema zum Titel, Untertiel und zur Grobgliederung
+## Vom Thema zum Titel, Untertitel und zur Grobgliederung
 
 Ausgangssituation: Thema (laut Anmeldung)
 1. Thema in eine Forschungsfrage umwandeln
