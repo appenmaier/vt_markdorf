@@ -62,17 +62,14 @@ flowchart TD
     hk --- cb2
     tv --- tb
     mw --- rh
-    mw --- lf
     cb2 --- js
     cb2 --- sv    
-    cb --- ch
-    cb --- ur2    
+    cb --- ch  
 
     subgraph Product Engineering
-        ts(Thomas Saueressig)
+        ts(Muhammad Alam)
 
         subgraph Cloud ERP
-            lf(Lukas Fink\nERP Public ENG EPPM 1 SE)
             tb(Thomas Bulling\nERP Private ENG Asset & Service SE)
             rh(Robin Herder\nERP Public ENG EPPM 1 SE)
             tv(Thomas Veit)
@@ -86,7 +83,6 @@ flowchart TD
             sm(Sarah Mang-Schäfer)
             lm(Lawrence Martin)
             ch(Christian Hund\nPE PCP AIS Logistics SE)
-            ur2(Ulrich Romahn\nPE PCP AIS Logistics SE)            
         end
 
         subgraph Industries & CX
@@ -107,9 +103,7 @@ flowchart TD
     style rh stroke:#0f0
     style js stroke:#0f0
     style md stroke:#0f0
-    style lf stroke:#0f0
     style ch stroke:#0f0
-    style ur2 stroke:#0f0
     style sv stroke:#0f0
 ```
 
