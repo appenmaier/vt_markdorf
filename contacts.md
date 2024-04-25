@@ -144,9 +144,8 @@ flowchart TD
     style jh stroke:#0f0
 ```
 
-**Hinweise**
-- Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
-- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
+**Hinweis**
+Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
 
 ## Ansprechpartner Standort Markdorf
 - Empfang: SAP GRF Emp MAK01 (mailto:sap_grf_emp_mak01@sap.com)
