@@ -102,14 +102,22 @@ _Empfehlung_: In der Grobgliederung maximal Gliederungsebene 2 verwenden.
 
 ## Hinweise zum indirekten Zitieren / Paraphrasieren
 
-- Wenn sich der Kurzverweis auf genau einen Satz beziehen soll, muss dieser am Ende des Satzes eingefügt werden:
-  - `Bla bla bla, vgl. Maier 2004, S. 3.`
-  - `Bla bla bla (vgl. Maier 20024, S. 3).`
-- Wenn sich der Kurzverweis auf einen Abschnitt beziehen soll, muss dieser am Anfang des Abschnittes eingefügt werden:
-  - `Laut Maier (2004, S. 20ff) ist... Des weiteren führt Maier aus... Zudem ist Maier der Meinung, dass...`
-  - `Laut Maier ist... Des weiteren führt Maier aus... Zudem ist Maier der Meinung, dass... (vgl. Maier, 2024, S. 20ff).`
+### Verweise auf einen Satz
 
-_Hinweis_: Die Variante `Bla Bla Bla. Blub Blub Blub. (vgl. Maier, 2024, S. 20ff)` ist falsch. Der Punkt vor dem Kurzverweis kommt nur bei langen, direkten Zitaten zum Einsatz
+Wenn sich der Kurzverweis auf genau einen Satz beziehen soll, muss dieser am Ende des Satzes eingefügt werden:
+- _Der Himmel ist blau, vgl. Maier 2024, S. 3._
+- _Der Himmel ist blau, vgl. Maier (2024) S. 3._
+- _Der Himmel ist blau (vgl. Maier 2024, S. 3)._
+
+### Verweise auf einen Abschnitt
+
+Wenn sich der Kurzverweis auf einen kompletten Abschnitt beziehen soll, kann dieser am Anfang des Abschnittes eingefügt werden:
+  - _Laut Maier (2024, S. 20ff) ist der Himmel blau. Des weiteren führt Maier aus, dass das Meer ebenfalls blau ist._
+  - _Laut Maier ist der Himmel blau. Des weiteren führt Maier aus, dass das Meer ebenfalls blau ist (vgl. Maier, 2024, S. 20ff)._
+  - _Laut Maier (2024) ist der Himmel blau. Des weiteren führt Maier aus, dass das Meer ebenfalls blau ist (vgl. S. 20ff)._
+
+Eine weitere Möglichkeit stellt die Verwendung der Abkürzung _ebd._ dar: _Der Himmel ist blau (vgl. Maier, 2024, S. 20). Das Meer ist ebenfalls blau (ebd. S. 21)_.
+Zudem ist laut Paul Kirchberg auch folgende Variante möglich (Belege dafür gibt es aber keine): _Der Himmel ist blau. Das Meer ist ebenfalls blau. (vgl. Maier, 2024, S. 20ff)_
 
 ## Einleitungstexte
 
