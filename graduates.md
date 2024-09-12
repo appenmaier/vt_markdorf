@@ -3,7 +3,7 @@
 ## Equipment 
 
 - Fall 1: Student verlässt SAP
-  - Das IT-Equipment (Laptop, Zubehör, SecureID-Card) kann bei der lokalen IT abgegeben werden 
+  - Das IT-Equipment (Laptop, Zubehör, SecureID-Card) kann bei der lokalen IT abgegeben werden. Hierzu muss zunächst über die [My IT-Equipment-App](https://fiorilaunchpad.sap.com/sites#my-equipment&/role) der Rückgabeprozess angestoßen werden
   - Die Essenskarte und die Zutrittskarte können beim Empfang abgegeben werden 
   - Die Firmenkreditkarte muss [gekündigt](https://one.int.sap/me@sap/travel/corporate_credit_card#cancel_your_card_0268) werden 
 - Fall 2: Student verbleibt bei SAP SE 
@@ -23,6 +23,13 @@
   - Der Resturlaub wird übernommen 
 - Fall 3: Student wechselt den Buchungskreis (z.B. von SE zu LGD) 
   - Der Resturlaub wird standardmäßig übernommen. Zur Auszahlung des Resturlaubs muss ein HR Ticket erstellt werden 
+
+## Own SAP (nur bei Verlassen des Unternehmens)
+
+- Der Zugriff auf das EquatePlus Konto bleibt noch 3 Monate bestehen
+- Nach 3 Monate werden alle Aktien verkauft und auf das in EquatePlus angegebene Konto überwiesen
+
+Siehe auch [SAP One](https://one.int.sap/asset/view/98027c36-5af6-4a2b-b0e1-d63413503565/Leaving%20SAP%20-%20Impact%20on%20Your%20Equity%20Portfolio%20and%20Required%20Actions.pdf)
 
 ## Ausbildungszeugnis 
 
