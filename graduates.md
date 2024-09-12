@@ -22,7 +22,10 @@
 - Fall 2: Student verbleibt bei SAP SE 
   - Der Resturlaub wird übernommen 
 - Fall 3: Student wechselt den Buchungskreis (z.B. von SE zu LGD) 
-  - Der Resturlaub wird standardmäßig übernommen. Zur Auszahlung des Resturlaubs muss ein HR Ticket erstellt werden 
+  - Der Resturlaub wird standardmäßig übernommen. Zur Auszahlung des Resturlaubs muss ein HR Ticket erstellt werden
+
+**Hinweis**
+Bitte prüft Anfang Oktober, ob Euer Urlaub tatsächlich übernommen wurde und erstellt im Zweifellsfall ein HR-Ticket.
 
 ## Own SAP (nur bei Verlassen des Unternehmens)
 
