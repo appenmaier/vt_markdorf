@@ -19,11 +19,11 @@ flowchart TD
     subgraph Office of the CEO
         ck(Christian Klein)
         subgraph Strategic Priority Topics
-            oj(Oliver Jaksch\nENG Sustainability P&O MAK)
-            lr(Lukas Riederle\nENG Sustainability P&O MAK)
-            jr(Julia Riegger\nENG Sustainability EHS MAK)
-            mf(Markus Fischer\nENG Sustainability P&O MAK)
-            jr2(Jochen Rominger\nENG Sustainability P&O MAK)
+            oj(Oliver Jaksch - ENG Sustainability P&O MAK)
+            lr(Lukas Riederle - ENG Sustainability P&O MAK)
+            jr(Julia Riegger - ENG Sustainability EHS MAK)
+            mf(Markus Fischer - ENG Sustainability P&O MAK)
+            jr2(Jochen Rominger - ENG Sustainability P&O MAK)
             mm(Michael Mayer)
             mb(Martin Botschek)
             gr(Gunther Rothermel)
@@ -47,22 +47,23 @@ flowchart TD
     jg --- ur
     jg --- lm
     ur --- rh2
-    ur --- jb
+    bm --- jb
+    ur --- bm
     rh2 --- lz
-    lz --- tv
+    lz --- gw
+    gw --- tv
     jb --- cb
     lm --- sm
-    sm --- mw
+    sm --- dw
     rb --- bb
-    rb --- bb2
     bb --- dd
     dd --- md
-    bb2 --- rp
-    rp --- hk
+    rb --- tr
+    tr --- hk
     hk --- cb2
     tv --- tb
-    mw --- rh
-    cb2 --- js
+    dw --- js2
+    js2 --- rh
     cb2 --- sv    
     cb --- ch  
 
@@ -70,38 +71,38 @@ flowchart TD
         ts(Muhammad Alam)
 
         subgraph Cloud ERP
-            tb(Thomas Bulling\nERP Private ENG Asset & Service SE)
-            rh(Robin Herder\nERP Public ENG EPPM 1 SE)
+            tb(Thomas Bulling - ERP Private ENG Asset & Service SE)
+            rh(Robin Herder - ERP Public ENG EPPM 1 SE)
             tv(Thomas Veit)
+            gw(Gabriele Weyerhäusler)
             lz(Lan Zhang)
             rh2(Rudolf Hois)    
             ur(Uma Rani T M)
             jg(Jan Gilg)        
             cb(Christian Bodenmiller)
             jb(Johannes Brechtel)
-            mw(Matthias Woerner)
+            dw(Deepalaxmi Naik)
             sm(Sarah Mang-Schäfer)
             lm(Lawrence Martin)
-            ch(Christian Hund\nPE PCP AIS Logistics SE)
+            js2(Jens Schyma)
+            ch(Christian Hund - PE PCP AIS Logistics SE)
+            bm(Bilal Peer Mohammed)
         end
 
         subgraph Industries & CX
-            md(Martin Dickhöfer\nS4 IC&Q2C ENG EU/AS - CH)
+            md(Martin Dickhöfer - S4 IC&Q2C ENG EU/AS - CH)
             dd(Donna Dong)
             bb(Balaji Balasubramanian)
             rb(Ritu Bhargava)
             cb2(Christian Becker)
-            hk(Hein Kagermann)
-            rp(Rajnish Prasad)
-            bb2(Benjamin Blau)
-            js(Jonas Schilling\nIPE C&E Utilities DE)
-            sv(Sascha Vornheder\nIPE C&E Utilities DE)
+            hk(Heinz Kagermann)
+            tr(Thomas Ruhl)
+            sv(Sascha Vornheder - IPE C&E Utilities DE)
         end
     end
 
     style tb stroke:#0f0
     style rh stroke:#0f0
-    style js stroke:#0f0
     style md stroke:#0f0
     style ch stroke:#0f0
     style sv stroke:#0f0
@@ -111,25 +112,23 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    sr --- cm
-    cm --- gs
-    gs --- hh
+    ts --- tp
+    tp --- hh
     hh --- ns
     ns --- bf
     ns --- cs
     ns --- jh
 
     subgraph Customer Success
-        sr(Scott Russell)
+        ts(Thomas Saueressig)
 
         subgraph Cloud Success Services
-            bf(Bernd Freibott\nSustainability 2)
+            bf(Bernd Freibott - Sustainability 2)
             ns(Niklas Siebenmorgen)
             hh(Hendrik Haas)
-            gs(Guido Schlief)
-            cm(Claudio Muruzabal)
-            cs(Carla Seehausen\nSustainability 1)
-            jh(Jürgen Hauk\nDigital Supply Chain 3)
+            tp(Thomas Pfiester)
+            cs(Carla Seehausen - Sustainability 1)
+            jh(Jürgen Hauk - Digital Supply Chain 3)
         end
     end
 
