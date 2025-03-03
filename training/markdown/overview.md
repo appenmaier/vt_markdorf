@@ -1,3 +1,3 @@
 # Markdown
 
-- [Textformatierungen](markdown/text-formatting.md)
+- [Textformatierungen](text-formatting.md)
