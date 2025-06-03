@@ -44,7 +44,7 @@ Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, 
 - Schulungen und Zertifikate
 
 ## Master-Wildcard
-Bekundet bitte bis zum 7. Februar im Talent Compass Euer Interesse an der Wildcard (swoeit vorhanden). Die Wildcards können NUR für einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt.
+Bekundet bitte bis zum 7. Februar im Talent Compass Euer Interesse an der Wildcard (soweit vorhanden). Die Wildcards können NUR für einen berufsbegleitenden Master verwendet werden. Da die Wildcards nicht "weitergegeben" werden können, meldet bitte nur Interesse an, wenn Ihr auch wirklich wirklich wirklich einen Master machen wollt.
 
 Die Vergabe der Wildcards erfolgt anhand der vier Elemente der Ausbildung:
 - Leistung in den Praxisphasen
