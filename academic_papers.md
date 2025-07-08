@@ -162,7 +162,7 @@ _Hinweise_
 ## Drucken wissenschaftlicher Arbeiten
 
 - Allgemeine Informationen
-  - Wissenschaftliche Arbeiten können [hier](https://dpmc-sapitcloud.dispatcher.hana.ondemand.com/webapp/index.html) in Auftrag gegeben werden
+  - Wissenschaftliche Arbeiten können [hier](https://sapit-iex-prod-lizard.launchpad.cfapps.eu10.hana.ondemand.com/708107c1-a1df-4c1a-bde4-848da89c0b75.dpmc.dpmc/index.html) in Auftrag gegeben werden
   - Pro Arbeit dürfen jeweils 4 Exemplare (2x schwarz/weiß, 2x farbig) in Auftrag gegeben werden
   - Die Dokumente müssen als PDF-Datei eingereicht werden
   - Bei den Lieferinformationen muss immer _Post_ verwendet werden
