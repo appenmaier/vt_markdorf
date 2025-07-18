@@ -6,6 +6,7 @@ Abstimmung mit dem betrieblichen Betreuer
   - Zielsetzung
   - Aufgabenstellung
   - Methodische Vorgehensweise
+  - Grobgliederung
 
 ## Aufgaben zu Beginn der Praxisphase
 
@@ -19,6 +20,8 @@ Abstimmung mit dem betrieblichen Betreuer
   - Grobgliederung (maximal Gliederungstiefe 2, grobe Seitenzahl)
   - Umfang (untere Grenze, obere Grenze)
   - Spezielle Anforderungen?
+
+_Hinweis_: Berücksichtigen, dass es wegen Abhängigkeiten (z.B. Berechtigungen und Systemzugänge) oder Wartungsarbeiten zu Verzögerungen kommen kann 
 
 _Empfehlung_: Zu detaillierte Abstimmungen bezüglich Gliederung, Anforderungen etc. vermeiden.
 
@@ -158,6 +161,7 @@ _Hinweise_
 - Generell müssen alle Quellen kritisch betrachtet werden. Im Idealfall kann man eine These mit mehr als einer Quelle belegen
 - Einleitung, Ergebnisdiskussion und Schluss müssen einen roten Faden bilden und müssen ohne den Hauptteil der Arbeit "funktionieren"
 - Im Schluss dürfen keine neuen Erkenntisse gewonnen werden. Heißt, es dürfen nur bestehende Ergebnisse kurz zusammengefasst wiederholt werden
+- Jedes (Unter-)Kapitel muss einen Umfang von mindestens einer Seite umfassen
 
 ## Drucken wissenschaftlicher Arbeiten
 
