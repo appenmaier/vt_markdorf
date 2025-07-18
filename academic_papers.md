@@ -11,9 +11,9 @@ Abstimmung mit dem betrieblichen Betreuer
 
 - Zeitplan erstellen
   - Abgabetermin
-  - Urlaube, Feiertage
+  - Urlaube (eigener, Dezi, Experten), Feiertage
   - Schulungen, Marketingveranstaltungen
-  - Korrekturphase und Drucken
+  - Korrekturphase
 - Abstimmung mit dem wissenschaftlichen Betreuer
   - Thema der Arbeit (Titel, Untertitel)
   - Grobgliederung (maximal Gliederungstiefe 2, grobe Seitenzahl)
