@@ -9,7 +9,7 @@
 ## Übernahmeempfehlung
 Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, Tätigkeiten, Praxisphasen) soweit möglich im [Talent Compass](https://sapit-hr-prod.launchpad.cfapps.eu10.hana.ondemand.com/site/VT#Shell-home) eingetragen habt, da ich bis zum 31. Januar die 
 Übernahmeempfehlungen im Talent Compass pflegen muss:
-- Wer in den ersten 3 Elementen die Anforderungen erfüllt hat, bekommt eine _uneingeschränkte Übernahmeempfehlung_
+- Wer in allen 4 Elementen die Anforderungen erfüllt hat, bekommt eine _uneingeschränkte Übernahmeempfehlung_
 - Wer in einem der ersten 3 Elemente die Anforderungen nicht erfüllt hat, bekommt eine _eingeschränkte Übernahmeempfehlung_
 - Wer in zwei oder drei der ersten 3 Elemente die Anforderungen nicht erfüllt hat oder das vierte Element nicht erfüllt hat, bekommt _keine Übernahmeempfehlung_
 
