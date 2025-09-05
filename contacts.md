@@ -1,6 +1,11 @@
 # Ansprechpartner Markdorf
 
-## Ansprechpartner Produktentwicklung
+## Ansprechpartner Praxisphasen
+
+- Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
+- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
+
+### Produktentwicklung
 
 | Bereich                               | Manager             | Anzahl Mitarbeiter | Ehemalige DuSA                                       |
 |---------------------------------------|---------------------|--------------------|------------------------------------------------------|
@@ -21,11 +26,7 @@
 - Lina Stehle (INF 2013), BTP INT CIE Eventing (SE)
 - Julian Alber (WI 2020), IPE Energy Ind. ENG Utilities DER EMEA
 
-**Hinweise**
-- Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
-- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
-
-## Ansprechpartner Beratung und Vertrieb
+### Beratung
 
 | Bereich                  | Manager         | Anzahl Mitarbeiter | Ehemalige DuSA                                                        |
 |--------------------------|-----------------|--------------------|-----------------------------------------------------------------------|
@@ -42,21 +43,18 @@
 - Luca Rief (WI 2017), CX MEE Customer Engagement & Service
 - Naomi Dörr (WI 2018), Public 1
 - Lisa Steinhauser (WI 2014), BTS MEE Life Science, Chem & SI
-- Kerem Ünal (WI 2016), DE-Sales-CON-CVS-R&C
 
-**Hinweise**
-- Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
-- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
-
-## Ansprechpartner Wartung
+### Wartung
 
 | Bereich                       | Manager               | Anzahl Mitarbeiter | Ehemalige DuSA |
 |-------------------------------|-----------------------|--------------------|----------------|
 | ERP Private AIS Logistics MAK | Christian Bodenmiller | 13                 |                |
 
-**Hinweise**
-- Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
-- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
+### Vertrieb
+
+**Sonstige Ehemalige DuSA**
+
+- Kerem Ünal (WI 2016), DE-Sales-CON-CVS-R&C
 
 ## Ansprechpartner Standort Markdorf
 
