@@ -58,8 +58,16 @@
 
 ## Ansprechpartner Standort Markdorf
 
-- Empfang: SAP GRF Emp MAK01 (mailto:sap_grf_emp_mak01@sap.com)
+- Empfang: SAP GRF Emp MAK01 (sap_grf_emp_mak01@sap.com)
 - IT (Hardware, Software): Ramo Doering (ramo.doering@sap.com)
 - IT (Besprechungsräume): Andreas Scherer (a.scherer@sap.com)
 - Hausmeister: Thomas Hoess (thomas.hoess@sap.com)
 - Standortleitung: Sebastian Griessmeyer (sebastian.griessmeyer@sap.com) und Andreas Giessmann (andrea.giessmann@sap.com)
+
+## Ansprechpartner STAR Germany
+
+- Sekretariat: Ina Legner (ina.legner@sap.com)
+- Personaldaten: Stefanie Fischer (st.fischer@sap.com)
+- Gehalt: Christine Sigl (christine.sigl@sap.com)
+- Recht: Anja Hubert (anja.hubert@sap.com)
+
