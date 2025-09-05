@@ -37,7 +37,7 @@
 ## Ansprechpartner Standort Markdorf
 
 - Empfang: SAP GRF Emp MAK01 (mailto:sap_grf_emp_mak01@sap.com)
-- IT: Ramo Doering (ramo.doering@sap.com)
-- IT: Andreas Scherer (a.scherer@sap.com)
+- IT (Hardware, Software): Ramo Doering (ramo.doering@sap.com)
+- IT (Besprechungsräume): Andreas Scherer (a.scherer@sap.com)
 - Hausmeister: Thomas Hoess (thomas.hoess@sap.com)
 - Standortleitung: Sebastian Griessmeyer (sebastian.griessmeyer@sap.com) und Andreas Giessmann (andrea.giessmann@sap.com)
