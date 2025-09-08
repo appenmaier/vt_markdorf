@@ -32,7 +32,6 @@
 - EHS: Environment, Health & Safety
 - PC: Product Compliance
 - RDP: Responsible Design & Production
-- SID: ???
 
 ### Beratung
 
@@ -57,8 +56,6 @@
 | ERP Private AIS Logistics | Christian Bodenmiller | 13                 |                |
 
 ### Vertrieb
-
-**Sonstige Ehemalige DuSA**
 
 | Bereich     | Manager | Anzahl Mitarbeiter | Ehemalige DuSA       |
 |-------------|---------|--------------------|----------------------|
