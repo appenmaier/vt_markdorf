@@ -3,14 +3,14 @@
 ## Equipment 
 
 - Fall 1: Student verlässt SAP
-  - Das IT-Equipment (Laptop, Zubehör, SecureID-Card) kann bei der lokalen IT abgegeben werden. Hierzu muss zunächst über die [My IT-Equipment-App](https://fiorilaunchpad.sap.com/sites#my-equipment&/role) der Rückgabeprozess angestoßen werden
+  - Das IT-Equipment (Laptop, Zubehör, SecureID-Card) kann bei der lokalen IT abgegeben werden. Hierzu muss zunächst über die [My IT-Equipment-App](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site?sap-ushell-config=lean#my-equipment) der Rückgabeprozess angestoßen werden
   - Die Essenskarte und die Zutrittskarte können beim Empfang abgegeben werden 
   - Die Firmenkreditkarte muss [gekündigt](https://one.int.sap/me@sap/travel/corporate_credit_card#cancel_your_card_0268) werden 
 - Fall 2: Student verbleibt bei SAP SE 
-  - Das komplette IT-Equipment (Laptop, Zubehör, SecureID-Card) wird in die Fachabteilung übernommen und muss auf die neue Kostenstelle umgebucht werden. Zur Umbuchung bitte die [My IT-Equipment-App](https://fiorilaunchpad.sap.com/sites#my-equipment&/role) verwenden. Sollte der Laptop nicht den Anforderungen der neuen
+  - Das komplette IT-Equipment (Laptop, Zubehör, SecureID-Card) wird in die Fachabteilung übernommen und muss auf die neue Kostenstelle umgebucht werden. Zur Umbuchung bitte die [My IT-Equipment-App](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site?sap-ushell-config=lean#my-equipment) verwenden. Sollte der Laptop nicht den Anforderungen der neuen
   Fachabteilung entsprechen, kann ein neuer Laptop auf die neue Kostenstelle bestellt werden. Der alte Laptop ist dann bei der IT abzugeben. 
 - Fall 3: Student wechselt den Buchungskreis (z.B. von SE zu LGD)
-  - Das komplette IT-Equipment (Laptop, Zubehör, SecureID-Card) wird in die Fachabteilung übernommen und muss auf die neue Kostenstelle umgebucht werden. Zur Umbuchung bitte die [My IT-Equipment-App](https://fiorilaunchpad.sap.com/sites#my-equipment&/role) verwenden. Sollte der Laptop nicht den Anforderungen der neuen Fachabteilung entsprechen, kann ein neuer Laptop auf die neue Kostenstelle bestellt werden. Der alte Laptop ist dann bei der IT abzugeben. 
+  - Das komplette IT-Equipment (Laptop, Zubehör, SecureID-Card) wird in die Fachabteilung übernommen und muss auf die neue Kostenstelle umgebucht werden. Zur Umbuchung bitte die [My IT-Equipment-App](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site?sap-ushell-config=lean#my-equipment) verwenden. Sollte der Laptop nicht den Anforderungen der neuen Fachabteilung entsprechen, kann ein neuer Laptop auf die neue Kostenstelle bestellt werden. Der alte Laptop ist dann bei der IT abzugeben. 
   - Die Essenskarte muss beim Empfang umgetauscht werden 
   - Die Firmenkreditkarte muss [gekündigt](https://one.int.sap/me@sap/travel/corporate_credit_card#cancel_your_card_0268) werden 
 
