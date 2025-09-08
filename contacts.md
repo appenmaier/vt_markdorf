@@ -6,7 +6,7 @@
 
 - Aufgeführt sind alle Teams, bei denen der Manager und/oder Teile des Teams in Markdorf sitzen & alle ehemaligen DuSa, die dem Standort Markdorf zugewiesen sind
 - Gegebenenfalls werden Euch die hier genannten Manager an einen ihrer Mitarbeiter verweisen, der für das Thema Praxisphasen zuständig ist
-- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore – Company – Whos Is Who & Org Chart_ und _SAP One - Explore – Plattforms – People_).
+- Weitere Infos zu den Bereichen und den jeweiligen Ansprechpartner findet Ihr im Portal (_SAP One - Explore - Company - Whos Is Who & Org Chart_ und _SAP One - Explore - Plattforms - People_).
 
 ### Produktentwicklung
 
