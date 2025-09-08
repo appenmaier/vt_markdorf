@@ -1,10 +1,10 @@
 # Aufgaben zum Praxisphasenstart
 
 ## Praxisphase
-- So noch nicht geschehen, Praxisphase im [Talent Marketplace](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site#talentmarketplace-Display) erstellen lassen und belegen
+- So noch nicht geschehen, Praxisphase im Opportunity Marketplace (_SAP One - Explore - Plattforms - Success Map - Opportunity Marketplace_) erstellen lassen und belegen
 - Praxisphasen-Planungsgespräch mit dem Dezi organisieren (Anfang Praxisphase, 1/2 Stunde)
 - Praxisphasen-Gespräch mit Daniel und dem Dezi organisieren (Mitte/Ende Praxisphase, 1/2 Stunde)
-- Für das Praxisphasen-Gespräch mit Daniel und dem Dezi einen One-Pager vorbereiten (Inhalte: Bereich/Abteilung/Team, Aufgabe, Ansprechpartner, Persönliche Highlights)
+- Für das Praxisphasen-Gespräch mit Daniel und dem Dezi einen One-Pager vorbereiten (Inhalte: Bereich/Abteilung/Team, Aufgaben, Ansprechpartner, Persönliche Highlights)
 
 ## Schulungen
 - Prüfen, ob alle Pflichtschulungen in Success Map erfolgreich absolviert wurden (_SAP One – Explore – Plattforms – Success Map – Schulung_)
@@ -16,7 +16,7 @@
 - Teamevent planen und organisieren (Budget: 20€ pro Person)
 - Prüfen, ob (zusätzlicher) Urlaub genommen werden sollte
 
-**Hinweise**
+**Hinweise zum Urlaub**
 - Euer gesetzlicher Urlaub verfällt zum 30. Juni
 - Ihr solltet pro Jahr mindestens 20 Tage Urlaub nehmen
 - Ihr solltet mindestens einmal pro Jahr 12 freie Werktage (Montag-Samstag) am Stück Urlaub nehmen
