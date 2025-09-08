@@ -21,15 +21,18 @@
 | Sustainability: RDP              | Christoph Huber     | 13                 | Lea Buchhold (WI 2018), Tim Sauter (WI 2021)         |
 | ERP Private: Asset & Service 3   | Thomas Veith        | 11                 |                                                      |
 | ERP Public: Project Services 2   | Jens Schyma         | 12                 | Lukas Fink (WI 2018), Robin Herder (WI 2018)         |
-| CX CCI                           | Daniel Hauser       | 10                 |                                                      |
+| CX: CCI                          | Daniel Hauser       | 10                 |                                                      |
 |||||
 | Sustainability: RDP              | -                   | -                  | Marcel Hierling (INF 2013)                           |
 | BTP INT CIE Eventing             | -                   | -                  | Lina Stehle (INF 2013)                               |
-| IPE Energy Industries: Utilities | -                   | -                  | Julian Alber (WI 2020)                               |
+| IPE: Energy Industries Utilities | -                   | -                  | Julian Alber (WI 2020)                               |
 
 **Legende**
 
+- BTP: Business Technology Plattform
+- CX: Customer Experience
 - EHS: Environment, Health & Safety
+- IPE: Intelligent Process Engineering
 - PC: Product Compliance
 - RDP: Responsible Design & Production
 
