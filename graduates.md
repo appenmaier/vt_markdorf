@@ -35,7 +35,7 @@ Siehe auch [SAP One](https://one.int.sap/asset/view/98027c36-5af6-4a2b-b0e1-d634
 
 ## Ausbildungszeugnis 
 
-Das Ausbildungszeugnis kann mit Hilfe des [Zeugnis Tools](https://fiorilaunchpad.sap.com/sites#scdzgeness-Display) beantragt werden. 
+Das Ausbildungszeugnis kann mit Hilfe des [Zeugnis Tools](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site#scdzgeness-Display) beantragt werden. 
 
 **Hinweise** 
 - Eine SEHR GUTE Abschlussnote (1,5 oder besser) kann im Ausbildungszeugnis gewürdigt werden. Im Zweifelsfall das Zeugnis also bitte erst dann beantragen, wenn die Abschlussnote feststeht, oder Daniel darüber informieren, das Zeugnis noch nicht abzuschließen
