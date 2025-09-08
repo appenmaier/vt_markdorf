@@ -35,6 +35,7 @@
 - IPE: Intelligent Process Engineering
 - PC: Product Compliance
 - RDP: Responsible Design & Production
+- SID: Sustainability Integration Development
 
 ### Beratung
 
@@ -50,7 +51,12 @@
 | Analytics & Insight 3         | -               | -                  | Yves Kipfer (DS 2020)                                                 |
 | Customer Engagement & Service | -               | -                  | Luca Rief (WI 2017)                                                   |
 | Public 1                      | -               | -                  | Naomi Dörr (WI 2018)                                                  |
-| BTS Life Science              | -               | -                  | Lisa Steinhauser (WI 2014)                                            |
+| BTS: Life Science             | -               | -                  | Lisa Steinhauser (WI 2014)                                            |
+
+**Legende**
+
+- BTS: Business Transformation Services
+- EHS: Environment, Health & Safety
 
 ### Wartung
 
@@ -62,7 +68,7 @@
 
 | Bereich     | Manager | Anzahl Mitarbeiter | Ehemalige DuSA       |
 |-------------|---------|--------------------|----------------------|
-| CON CVS R&C | -       | -                  | Kerem Ünal (WI 2016) |
+| Sales Cloud | -       | -                  | Kerem Ünal (WI 2016) |
 
 ## Ansprechpartner Standort Markdorf
 
