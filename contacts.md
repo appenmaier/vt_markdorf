@@ -48,7 +48,7 @@
 | Analytics & Insight 3         | -               | -                  | Yves Kipfer (DS 2020)                                                 |
 | Customer Engagement & Service | -               | -                  | Luca Rief (WI 2017)                                                   |
 | Public 1                      | -               | -                  | Naomi Dörr (WI 2018)                                                  |
-| BTS MEE Life Science          | -               | -                  | Lisa Steinhauser (WI 2014)                                            |
+| BTS Life Science              | -               | -                  | Lisa Steinhauser (WI 2014)                                            |
 
 ### Wartung
 
